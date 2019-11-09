@@ -1,7 +1,7 @@
-def speak_to_grandma("shout,SHOUT)
-if speak_to_grandma("shout")
+def speak_to_grandma("shout","SHOUT")
+if speak_to_grandma==("shout")
   return "HUH?! SPEAK UP,SONNY!"
-  elsif speak_to_grandma("SHOUT")
+  elsif speak_to_grandma==("SHOUT")
   return "NO,NOT SINCE 1938!"
 else return "I LOVE YOU TOO PUMPKIN!"
 end
