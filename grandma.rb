@@ -1,5 +1,5 @@
-phrase= "HUH?! SPEAK UP, SONNY!"
-def speak_to_grandma("Phrase")
+
+def speak_to_grandma("shout")
 if "phrase"= "UH?! SPEAK UP,SONNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
