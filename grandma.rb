@@ -1,6 +1,7 @@
 def speak_to_grandma("shout,SHOUT,")
 if speak_to_grandma("SHOUT")
   return "HUH?! SPEAK UP,SONNY!"
+  elsif speak_to_grandma
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
