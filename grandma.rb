@@ -1,9 +1,10 @@
+phrase="I LOVE YOU GRANDMA"
 def speak_to_grandma("shout,SHOUT,)
 if speak_to_grandma="shout"
   return "HUH?! SPEAK UP,SONNY!"
   elsif speak_to_grandma="SHOUT"
   return "NO,NOT SINCE 1938!"
-else
+else return "I LOVE YOU TOO PUMPKIN!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
