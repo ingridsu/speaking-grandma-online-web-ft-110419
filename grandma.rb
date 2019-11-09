@@ -1,5 +1,6 @@
-def speak_to_grandma("SHOUT, shout")
-if speak_to_grandma"UH?! SPEAK UP,SONNY!"
+def speak_to_grandma("shout,SHOUT,")
+if speak_to_grandma("SHOUT")
+  return "HUH?! SPEAK UP,SONNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
