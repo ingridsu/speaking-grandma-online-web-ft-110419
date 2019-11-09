@@ -1,4 +1,4 @@
-phrase= 
+phrase= "HUH?! SPEAK UP, SONNY!"
 def speak_to_grandma("Phrase")
 
 # Whatever you say to grandma, she should respond with
