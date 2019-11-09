@@ -1,6 +1,6 @@
 phrase= "HUH?! SPEAK UP, SONNY!"
 def speak_to_grandma("Phrase")
-
+if "phrase"=
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
